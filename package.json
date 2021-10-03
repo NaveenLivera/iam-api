@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/NaveenLivera/iam-api/issues"
   },
-  "homepage": "https://github.com/NaveenLivera/iam-api#readme"
+  "homepage": "https://github.com/NaveenLivera/iam-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "tsc": "^2.0.3"
+  }
 }
