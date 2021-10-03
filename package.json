@@ -1,0 +1,19 @@
+{
+  "name": "yatter-iam-api",
+  "version": "1.0.0",
+  "description": "Yatter RESTful IAM API for Social Network Project of Service Oriented Computing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaveenLivera/iam-api.git"
+  },
+  "author": "Yatter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaveenLivera/iam-api/issues"
+  },
+  "homepage": "https://github.com/NaveenLivera/iam-api#readme"
+}
